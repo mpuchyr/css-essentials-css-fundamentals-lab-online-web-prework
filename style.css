@@ -16,6 +16,10 @@ nav a {
 
 }
 
+figure {
+  margin: auto;
+}
+
 figcaption {
   text-align: center;
 }
