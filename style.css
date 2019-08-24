@@ -13,12 +13,13 @@ nav a {
 
 #details {
   width: 100%;
+  display: block;
 }
 
 #details div {
   width: 25%;
   background: red;
-  float: left;
   text-align: center;
+  float: left;
 }
 
