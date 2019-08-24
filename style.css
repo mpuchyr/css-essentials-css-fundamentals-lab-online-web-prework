@@ -16,6 +16,10 @@ nav a {
 
 }
 
+img {
+  margin: auto;
+}
+
 #details {
   display: block;
 }
