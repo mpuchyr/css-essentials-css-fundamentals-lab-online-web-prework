@@ -7,14 +7,13 @@ body {
 header {
   margin: auto;
   width: 900px;
+  text-align: center;
 }
 
 nav a {
   padding-left: 10px;
   padding-right: 10px;
   background: #D3D3D3;
-  margin: auto;
-  width: 900px;
 
 }
 
