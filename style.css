@@ -19,5 +19,6 @@ nav a {
   width: 25%;
   background: red;
   float: left;
+  text-align: center;
 }
 
