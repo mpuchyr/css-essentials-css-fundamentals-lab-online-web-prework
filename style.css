@@ -11,6 +11,10 @@ nav a {
 
 }
 
+#details {
+  width: 100%;
+}
+
 #details div {
   width: 25%;
   background: red;
