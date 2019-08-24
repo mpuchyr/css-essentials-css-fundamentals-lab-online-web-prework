@@ -18,5 +18,6 @@ nav a {
 #details div {
   width: 25%;
   background: red;
+  float: left;
 }
 
